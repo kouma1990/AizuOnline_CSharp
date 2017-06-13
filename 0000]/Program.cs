@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AizuOnlineCode
+namespace _0000_
 {
     class Program
     {
